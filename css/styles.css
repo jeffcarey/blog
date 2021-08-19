@@ -1,0 +1,33 @@
+/* Jeff Carey */
+
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.article {
+    margin-bottom: 24px;
+}
+
+.article__title {
+    font-size: 20px;
+    color: white;
+    background-color: black;
+}
+
+.article__body {
+    padding: 6px;
+    background-color: burlywood;
+}
+
+.button-row {
+    margin-top: 6px;
+}
+
+.action {
+    border: 1px solid black;
+    padding: 6px;
+    font-size: 14px;
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+}
